@@ -11,3 +11,6 @@ Make a new branch with git branch (name of the branch)
 git add and git commit
 
 git push -u origin (branch name)
+
+
+wuuut
