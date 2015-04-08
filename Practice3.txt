@@ -3,3 +3,11 @@
 Make a new repository
 
 connect with git hub and follow the instruction there
+
+check branches with git branch
+
+Make a new branch with git branch (name of the branch)
+
+git add and git commit
+
+git push -u origin (branch name)
